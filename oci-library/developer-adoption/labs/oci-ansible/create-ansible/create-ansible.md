@@ -23,7 +23,7 @@ In this tutorial, we’re going to use [OCI Cloud Shell](https://docs.oracle.com
 
 ### Pre-Requisites
 
-* Need to be an OCI Tenancy Administrator
+* You should have [Oracle Cloud Administrator Permissions](https://docs.oracle.com/en-us/iaas/Content/GSG/Tasks/addingusers.htm#Add)
 
 
 ## Task 1: Create Object Storage Bucket

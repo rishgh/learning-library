@@ -20,6 +20,7 @@ Estimated time: 60 minutes
 1. An Oracle Free Tier(Trial), Paid or LiveLabs Cloud Account
 2. [Familiarity with OCI console](https://docs.us-phoenix-1.oraclecloud.com/Content/GSG/Concepts/console.htm)
 3. [OCI CLI Installation on your local machine](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm)
+4. You should have [Oracle CLoud Administrator Permissions](https://docs.oracle.com/en-us/iaas/Content/GSG/Tasks/addingusers.htm#Add)
 
 
 You may now [proceed to the next lab](#next).
