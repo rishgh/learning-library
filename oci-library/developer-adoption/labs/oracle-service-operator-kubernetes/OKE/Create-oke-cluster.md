@@ -70,7 +70,7 @@ OCI Command Line should be installed as a prerequisite to this lab.
     oci -v
     </copy>
     ```
-    to check OCI CLI version which should be 2.24.x or higher.
+    to check OCI CLI version which should be 2.24.x or higher. To upgrade the OCI CLI, follow [OCI CLI Upgrade](https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliupgrading.htm) .
 
 
 ## Task 3: Install Kubectl
